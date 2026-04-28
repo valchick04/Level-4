@@ -10,7 +10,7 @@
    cd task-manager
    
 2. **Установите зависимости**
-    npm install
+npm install
 
    
 3. **Установите зависимости**
